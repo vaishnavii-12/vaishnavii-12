@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills
 - Java
-- C Programming
+- C++ Programming
 - Git & GitHub
 - HTML & CSS
 
