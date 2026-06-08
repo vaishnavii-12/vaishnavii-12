@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi 👋
 
-<!--
-**vaishnavii-12/vaishnavii-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
+- Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals for 2026
+- Contribute to GSSoC 2026
+- Improve DSA Skills
+- Build Real-World Projects
+- Grow My GitHub Profile
+
+## 🛠️ Skills
+- Java
+- C Programming
+- Git & GitHub
+- HTML & CSS
+
+## 📊 GitHub Journey
+- Open Source Contributor
+- Learning Every Day
+- Building Projects and Solving Problems
+
+## 📫 Connect With Me
+- LinkedIn: Add your LinkedIn profile link here
+
+⭐ Thanks for visiting my profile!
