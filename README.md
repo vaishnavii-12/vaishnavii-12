@@ -3,7 +3,6 @@
 🎓 Computer Science Student
 
 ## 🌱 Currently Learning
-- Java
 - Data Structures & Algorithms
 - Git & GitHub
 - Open Source Contributions
@@ -15,7 +14,6 @@
 - Grow My GitHub Profile
 
 ## 🛠️ Skills
-- Java
 - C++ Programming
 - Git & GitHub
 - HTML & CSS
