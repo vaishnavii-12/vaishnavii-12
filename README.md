@@ -16,28 +16,48 @@
 
 I am a B.Tech IT student who enjoys learning new technologies and building practical projects. I love exploring software development, contributing to open-source projects, and continuously improving my coding skills.
 
-🌱 Currently learning:
-- Data Structures & Algorithms
-- Web Development
-- Open Source Contributions
-- Git & GitHub
+🌱 Currently Learning
 
-🎯 Career Goals:
-- Become a skilled Software Engineer
-- Contribute to major Open Source Projects
-- Build impactful real-world applications
-- Strengthen Problem Solving Skills
-- Grow my professional developer portfolio
+* 📚 Data Structures & Algorithms
+* 🌐 Frontend Web Development
+* 🚀 Open Source Contributions
+* ⚡ JavaScript Projects
+* 🔧 Git & GitHub Workflows
 
-🎯 Career Goals:
-- 🏅 Certifications:
-- SQL Basics Certification
-- Python Programming Certification
-- Git & GitHub Fundamentals
+🎯 Career Aspirations
 
-🎓 Education:
-- B.Tech Information Technology (Second Year)
-- Focused on Software Development & Problem Solving
+* 💻 Become a Skilled Software Engineer
+* 🌟 Contribute to Impactful Open Source Projects
+* 🚀 Build Real-World Applications
+* 📈 Continuously Improve Problem-Solving Skills
+* 🏆 Establish a Strong Developer Portfolio
+
+🎓 Education
+
+* B.Tech in Information Technology (IT)
+* Second Year Undergraduate Student
+* Passionate about Software Development and Emerging Technologies
+
+💡 Areas of Interest
+
+* Web Development
+* Software Engineering
+* Data Structures & Algorithms
+* Open Source Development
+* Problem Solving
+
+✨ What Defines Me
+
+* Quick Learner
+* Self-Motivated
+* Team Player
+* Consistent Learner
+* Technology Enthusiast
+
+🚀 Current Focus
+
+"Learning, Building, Contributing, and Growing as a Developer every day."
+
 
 ---
 
