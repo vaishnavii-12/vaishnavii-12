@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Vaishnavi+Ramesh+Botare;B.Tech+IT+Student;Open+Source+Contributor;Python+C%2B%2B+JavaScript+Developer" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=vaishnavii-12&color=blueviolet&style=for-the-badge)
 # Hi, I'm Vaishnavi Ramesh Botare 👋
 
 🎓 B.Tech Information Technology (IT) Student  
@@ -23,6 +28,16 @@ I am a B.Tech IT student who enjoys learning new technologies and building pract
 - Build impactful real-world applications
 - Strengthen Problem Solving Skills
 - Grow my professional developer portfolio
+
+🎯 Career Goals:
+- 🏅 Certifications:
+- SQL Basics Certification
+- Python Programming Certification
+- Git & GitHub Fundamentals
+
+🎓 Education:
+- B.Tech Information Technology (Second Year)
+- Focused on Software Development & Problem Solving
 
 ---
 
@@ -94,6 +109,9 @@ Actively contributing to beginner-friendly open source repositories.
 ---
 
 ## 📈 GitHub Stats
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaishnavii-12&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavii-12&show_icons=true&theme=tokyonight)
 
@@ -116,11 +134,14 @@ Actively contributing to beginner-friendly open source repositories.
 
 ## 🤝 Let's Connect
 
-📧 Email: vaishnavibotare5@gmail.com
-💼 LinkedIn: [Add Your LinkedIn Profile
-](https://www.linkedin.com/in/vaishnavi-botare-a7a59937a/)
-🐙 GitHub: https://github.com/vaishnavii-12
+## 🌐 Socials
 
+<p align="left">
+<a href="https://www.instagram.com/_vaishnaviiiii_____1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vaishnavi-botare-a7a59937a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:vaishnavibotare5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/vaishnavii-12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 ---
 
 ## 💡 Quote
