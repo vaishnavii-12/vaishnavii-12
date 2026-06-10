@@ -1,29 +1,130 @@
-# Hi, I'm Vaishnavi 👋
+# Hi, I'm Vaishnavi Ramesh Botare 👋
 
-🎓 Computer Science Student
+🎓 B.Tech Information Technology (IT) Student  
+📚 Currently in Second Year  
+💻 Passionate about Programming, Problem Solving & Open Source  
+🚀 Aspiring Software Developer from India
+
+---
+
+## 👩‍💻 About Me
+
+I am a B.Tech IT student who enjoys learning new technologies and building practical projects. I love exploring software development, contributing to open-source projects, and continuously improving my coding skills.
+
+🌱 Currently learning:
+- Data Structures & Algorithms
+- Web Development
+- Open Source Contributions
+- Git & GitHub
+
+🎯 Career Goals:
+- Become a skilled Software Engineer
+- Contribute to major Open Source Projects
+- Build impactful real-world applications
+- Strengthen Problem Solving Skills
+- Grow my professional developer portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 🌱 Currently Learning
+
+- 📘 Data Structures & Algorithms
+- 🌐 Frontend Development
+- ⚡ JavaScript Projects
+- 🔥 Open Source Contributions
+- 🛠 Git & GitHub Workflows
+
+---
+
+## 🚀 Featured Projects
+
+### 🔢 Calculator Application
+A simple calculator built using Python that performs basic arithmetic operations.
+
+### 🔄 Palindrome Checker
+Checks whether a word or sentence is a palindrome.
+
+### 📊 DSA Practice Repository
+Collection of coding problems and solutions to improve problem-solving skills.
+
+### 🌐 Personal Portfolio Website
+A personal portfolio showcasing skills, achievements, and projects.
+
+### 💻 Open Source Contributions
+Actively contributing to beginner-friendly open source repositories.
+
+---
+
+## 🏆 Achievements
+
+- 🌟 Active GitHub Contributor
+- 🚀 Participating in Open Source Programs
+- 📚 Consistently Learning New Technologies
+- 💻 Building Programming Projects
+- 🔥 Maintaining GitHub Activity
+
+---
+
+## 🎯 Goals For 2026
+
+- 🚀 Contribute to GSSoC 2026
+- 📚 Solve 300+ DSA Problems
+- 💻 Build 10+ Real World Projects
+- 🌐 Learn Full Stack Development
+- ⭐ Reach 500+ GitHub Contributions
+- 🏆 Strengthen Open Source Profile
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavii-12&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavii-12&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavii-12&theme=tokyonight)
+
+---
+
+## 📚 Areas of Interest
+
+- Software Development
+- Web Development
 - Data Structures & Algorithms
-- Git & GitHub
-- Open Source Contributions
+- Open Source
+- Problem Solving
+- Technology & Innovation
 
-## 🚀 Goals for 2026
-- Contribute to GSSoC 2026
-- Improve DSA Skills
-- Build Real-World Projects
-- Grow My GitHub Profile
+---
 
-## 🛠️ Skills
-- C++ Programming
-- Git & GitHub
-- HTML & CSS
+## 🤝 Let's Connect
 
-## 📊 GitHub Journey
-- Open Source Contributor
-- Learning Every Day
-- Building Projects and Solving Problems
+📧 Email: vaishnavibotare5@gmail.com
+💼 LinkedIn: [Add Your LinkedIn Profile
+](https://www.linkedin.com/in/vaishnavi-botare-a7a59937a/)
+🐙 GitHub: https://github.com/vaishnavii-12
 
-## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile link here
+---
+
+## 💡 Quote
+
+> "Success is built one commit at a time."
 
 ⭐ Thanks for visiting my profile!
