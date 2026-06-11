@@ -19,7 +19,7 @@ I am a B.Tech IT student who enjoys learning new technologies and building pract
 
 🚀 Live Demo
 
-🔗 Portfolio Website:https :  //vaishnavii-12.github.io/Personal-Portfolio/
+🔗 Portfolio Website:https ://vaishnavii-12.github.io/Personal-Portfolio/
 
 
 
